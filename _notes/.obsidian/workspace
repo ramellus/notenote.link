@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cohen's homomorphism theorem.md",
+            "file": "Valuation ring.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cohen's homomorphism theorem.md",
+                "file": "Valuation ring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "38261864f78847e3",
   "lastOpenFiles": [
+    "Valuation ring.md",
+    "Lift to Hahn series.md",
     "Cohen's homomorphism theorem.md",
     "Difference field.md",
     "Existence and uniqueness of TF-lifts.md",
