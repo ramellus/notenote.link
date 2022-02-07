@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Difference field.md",
+            "file": "Cohen's homomorphism theorem.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Difference field.md",
+                "file": "Cohen's homomorphism theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "38261864f78847e3",
   "lastOpenFiles": [
+    "Cohen's homomorphism theorem.md",
     "Difference field.md",
     "Existence and uniqueness of TF-lifts.md",
     "Cohen ring.md",
-    "Cohen's homomorphism theorem.md",
     "Teichmüller-Frobenius lift.md"
   ]
 }
