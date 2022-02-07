@@ -1,7 +1,7 @@
 ---
 title: Teichmüller-Frobenius lift
-tags: tag1
-toc: object
+tags: object
+toc: true
 season: winter
 --- 
 
