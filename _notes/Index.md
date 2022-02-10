@@ -1,0 +1,21 @@
+## Valuation theory
+- [[Valued field]]
+- [[Valuation ring]]
+- [[Pseudo-Cauchy sequence]]
+- [[Pseudo-limit]]
+- [[Hahn series]]
+## Difference algebra
+- [[Difference field]]
+- [[Valued difference field]]
+- [[Lift to Hahn series]]
+- [[Lift of the Frobenius]]
+- [[sigma-algebraicity]]
+- [[Isometry]]
+## Cohen rings
+- [[Cohen ring]]
+- [[Generating non-strict Cohen rings]]
+- [[Witt vectors]]
+- [[Cohen's homomorphism theorem]]
+- [[Teichmüller-Frobenius lift]]
+- [[Teichmüller's embedding process]]
+- [[Existence and uniqueness of TF-lifts]]
