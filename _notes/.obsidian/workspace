@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Valuation ring.md",
+            "file": "Existence and uniqueness of TF-lifts.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Valuation ring.md",
+                "file": "Existence and uniqueness of TF-lifts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,15 @@
   },
   "active": "38261864f78847e3",
   "lastOpenFiles": [
-    "Valuation ring.md",
-    "Lift to Hahn series.md",
-    "Cohen's homomorphism theorem.md",
-    "Difference field.md",
     "Existence and uniqueness of TF-lifts.md",
-    "Cohen ring.md",
-    "Teichmüller-Frobenius lift.md"
+    "Teichmüller-Frobenius lift.md",
+    "sigma-algebraicity.md",
+    "Pseudo-limit.md",
+    "Pseudo-Cauchy sequence.md",
+    "Isometry.md",
+    "Valued difference field.md",
+    "Lift of the Frobenius.md",
+    "Lift to Hahn series.md",
+    "Valued field.md"
   ]
 }
